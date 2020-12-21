@@ -4,7 +4,9 @@ kheer
 pasta
 burger
 
+pizza
 
+momos
 
 
 
